@@ -1,0 +1,40 @@
+Great Expectations<=>
+Charles Dickens<=>
+<==>
+A TALE OF TWO CITIES<=>
+Charles Dickens<=>
+<==>
+THE ADVENTURES OF TOM SAWYER<=>
+MARK TWAIN<=>
+the dog barks well
+<==>
+ADVENTURES OF HUCKLEBERRY FINN<=>
+MARK TWAIN<=>
+<==>
+ADVENTURES OF HUCKLEBERRY FINN<=>
+MARK TWAIN<=>
+<==>
+Pride and Prejudice<=>
+Jane Austen<=>
+<==>
+Moby Dick<=>
+Herman Melville<=>
+this is the first moby dick
+<==>
+Moby Dick<=>
+Herman Melville<=>
+this is the second
+<==>
+Moby Dick<=>
+Herman Melville<=>
+the third
+<==>
+The Wonderful Wizard of Oz<=>
+Frank Baum<=>
+<==>
+The Brothers Karamazov<=>
+Fyodor Dostoyevsky<=>
+<==>
+The Masque of the Red Death<=>
+Edgar Allan Poe<=>
+<==>
